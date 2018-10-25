@@ -88,7 +88,7 @@ function chain(size) {
 
   }
 
-  const TABLE_SIZES = [100, 250, 500];
+  const TABLE_SIZES = [10,25,50];
   const TRIALS = TABLE_SIZES.length;
   const HASHING_ANALYSIS = init(TABLE_SIZES);
 
